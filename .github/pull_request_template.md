@@ -4,8 +4,7 @@
 
 If the submission is an update to an existing mod, include the changelog below:
 
-* Changelog item 1...
-* Changelog item 2...
+* Added option to ignore Widgets button in taskbar-dock-animation
 
 ## Mod authorship
 
