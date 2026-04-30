@@ -1,10 +1,15 @@
+## Changelog
+
+* Added option to ignore Widgets button in taskbar-dock-animation
+  
 <!-- ⚠️ Please don't remove the template below. Add your content above the template. -->
 
 ## Changelog
 
 If the submission is an update to an existing mod, include the changelog below:
 
-* Added option to ignore Widgets button in taskbar-dock-animation
+* Changelog item 1...
+* Changelog item 2...
 
 ## Mod authorship
 
